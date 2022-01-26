@@ -1,0 +1,41 @@
+body {
+  background-color: darkgrey;
+}
+main {
+  margin: 10% 10% -10px;
+  border: 10px groove bisque;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
+div {
+  box-sizing: border-box;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 1.2rem;
+}
+#content {
+  /* width: 57%;  */
+  margin-left: 0px;
+  margin-bottom: 75px;
+  height: 10%; */
+  align-self: flex-end;
+}
+#pict {
+  /* margin: 7% 5% 0px 3%;
+  margin-right: 0px; */
+  align-self: center;
+  margin-right: 10%;
+  margin-left: 5%;
+  }
+img {
+  width: 150%;
+  height: 100%;
+  
+  
+}
+p {
+  text-align: justify;
+}
+h1 {
+  width: 90%;
+}
